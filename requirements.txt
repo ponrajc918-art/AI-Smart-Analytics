@@ -3,7 +3,10 @@ pandas
 numpy
 scikit-learn
 matplotlib
+seaborn
 plotly
 openpyxl
 shap
 numba
+scipy
+joblib
