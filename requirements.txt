@@ -10,3 +10,4 @@ shap
 numba
 scipy
 joblib
+gunicorn
